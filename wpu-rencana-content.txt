@@ -1,0 +1,8 @@
+RENCANA KONTEN WPU
+
+- Javascript
+  * ES6
+  * Framawork Javascript
+- PHP Framework
+- Interview
+- Vlogs
